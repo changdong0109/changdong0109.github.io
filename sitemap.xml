@@ -20,24 +20,6 @@
   </url>
   
   <url>
-    <loc>https://www.changdong.top/posts/62946/</loc>
-    
-    <lastmod>2021-12-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.changdong.top/posts/16107/</loc>
-    
-    <lastmod>2021-12-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.changdong.top/tags/index.html</loc>
     
     <lastmod>2021-12-13</lastmod>
@@ -119,20 +101,6 @@
 
   
   <url>
-    <loc>https://www.changdong.top/tags/IDEA/</loc>
-    <lastmod>2021-12-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.changdong.top/tags/WebStorm/</loc>
-    <lastmod>2021-12-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.changdong.top/tags/%E7%BC%A9%E7%95%A5%E5%9B%BE/</loc>
     <lastmod>2021-12-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -147,27 +115,20 @@
   </url>
   
   <url>
-    <loc>https://www.changdong.top/tags/spring/</loc>
+    <loc>https://www.changdong.top/tags/IDEA/</loc>
     <lastmod>2021-12-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.changdong.top/tags/%E5%8D%9A%E5%AE%A2%E5%BB%BA%E7%AB%99/</loc>
+    <loc>https://www.changdong.top/tags/WebStorm/</loc>
     <lastmod>2021-12-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
 
-  
-  <url>
-    <loc>https://www.changdong.top/categories/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85/</loc>
-    <lastmod>2021-12-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
   
   <url>
     <loc>https://www.changdong.top/categories/%E5%B7%A5%E4%BD%9C%E8%AE%B0%E5%BD%95/</loc>
@@ -177,14 +138,7 @@
   </url>
   
   <url>
-    <loc>https://www.changdong.top/categories/%E5%88%86%E7%B1%BB1/</loc>
-    <lastmod>2021-12-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.changdong.top/categories/%E5%88%86%E7%B1%BB1/%E5%88%86%E7%B1%BB2/</loc>
+    <loc>https://www.changdong.top/categories/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85/</loc>
     <lastmod>2021-12-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
